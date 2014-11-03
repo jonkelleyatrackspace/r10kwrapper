@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+r10kwrapper/__init__.py
+r10kwrapper/r10kwrapper.py
+r10kwrapper.egg-info/PKG-INFO
+r10kwrapper.egg-info/SOURCES.txt
+r10kwrapper.egg-info/dependency_links.txt
+r10kwrapper.egg-info/entry_points.txt
+r10kwrapper.egg-info/top_level.txt
