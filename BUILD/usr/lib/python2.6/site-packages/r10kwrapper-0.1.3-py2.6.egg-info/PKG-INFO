@@ -1,7 +1,7 @@
 Metadata-Version: 1.0
 Name: r10kwrapper
-Version: 0.1.2
-Summary: zabbixctl - Utility that connects to Zabbix API
+Version: 0.1.3
+Summary: r10kwrapper - a wrapper for r10k
 Home-page: https://github.com/jonkelleyatrackspace/r10kwrapper
 Author: Jon Kelley
 Author-email: jon.kelley@rackspace.com
